@@ -17,7 +17,6 @@ namespace CKP4.Controllers
             _context = context;
         }
 
-        // Associar um paciente a um plano de saúde
         [HttpPost("associar")]
         public async Task<IActionResult> AssociarPacientePlanoSaudeAsync([FromQuery] int pacienteId, [FromQuery] int planoSaudeId)
         {
@@ -42,7 +41,7 @@ namespace CKP4.Controllers
         }
 
 
-        // Remover a associação entre um paciente e um plano de saúde
+
         [HttpDelete("remover")]
         public async Task<IActionResult> RemoverPacientePlanoSaudeAsync([FromQuery] int pacienteId, [FromQuery] int planoSaudeId)
         {
@@ -60,7 +59,7 @@ namespace CKP4.Controllers
             return Ok("Associação entre Paciente e Plano de Saúde removida com sucesso.");
         }
 
-        // Listar os planos de saúde associados a um paciente
+
         [HttpGet("planos-do-paciente")]
         public async Task<IActionResult> ListarPlanosDeSaudeAssociadosAsync([FromQuery] int pacienteId)
         {
@@ -77,7 +76,7 @@ namespace CKP4.Controllers
             return Ok(planosDeSaude);
         }
 
-        // Listar todos os pacientes associados a um plano de saúde
+
         [HttpGet("pacientes-do-plano")]
         public async Task<IActionResult> ListarPacientesAssociadosAsync([FromQuery] int planoSaudeId)
         {

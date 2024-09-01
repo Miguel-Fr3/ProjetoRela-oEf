@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\faculdade\\cp4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|c:\\faculdade\\cp4\\ckp4\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|solutionrelative:ckp4\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|c:\\faculdade\\cp4\\ckp4\\models\\planosaude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|solutionrelative:ckp4\\models\\planosaude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|c:\\faculdade\\cp4\\ckp4\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|solutionrelative:ckp4\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|c:\\faculdade\\cp4\\ckp4\\controllers\\pacienteplanodesaudecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|solutionrelative:ckp4\\controllers\\planossaudecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|c:\\faculdade\\cp4\\ckp4\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|solutionrelative:ckp4\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|c:\\faculdade\\cp4\\ckp4\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|solutionrelative:ckp4\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|c:\\faculdade\\cp4\\ckp4\\models\\planosaude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|solutionrelative:ckp4\\models\\planosaude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A68FF1E9-1D0F-4A6D-863F-3182500AD09B}|CKP4\\CKP4.csproj|c:\\faculdade\\cp4\\ckp4\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,47 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PlanosSaudeController.cs",
               "DocumentMoniker": "C:\\faculdade\\cp4\\CKP4\\Controllers\\PlanosSaudeController.cs",
               "RelativeDocumentMoniker": "CKP4\\Controllers\\PlanosSaudeController.cs",
               "ToolTip": "C:\\faculdade\\cp4\\CKP4\\Controllers\\PlanosSaudeController.cs",
               "RelativeToolTip": "CKP4\\Controllers\\PlanosSaudeController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowEoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T21:25:11.231Z"
+              "WhenOpened": "2024-09-01T21:25:11.231Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PacientePlanoDeSaudeController.cs",
               "DocumentMoniker": "C:\\faculdade\\cp4\\CKP4\\Controllers\\PacientePlanoDeSaudeController.cs",
               "RelativeDocumentMoniker": "CKP4\\Controllers\\PacientePlanoDeSaudeController.cs",
               "ToolTip": "C:\\faculdade\\cp4\\CKP4\\Controllers\\PacientePlanoDeSaudeController.cs",
               "RelativeToolTip": "CKP4\\Controllers\\PacientePlanoDeSaudeController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwCgAAABLAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T21:20:51.17Z"
+              "WhenOpened": "2024-09-01T21:20:51.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PacientesController.cs",
               "DocumentMoniker": "C:\\faculdade\\cp4\\CKP4\\Controllers\\PacientesController.cs",
               "RelativeDocumentMoniker": "CKP4\\Controllers\\PacientesController.cs",
               "ToolTip": "C:\\faculdade\\cp4\\CKP4\\Controllers\\PacientesController.cs",
               "RelativeToolTip": "CKP4\\Controllers\\PacientesController.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAowAAAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T21:19:41.603Z"
+              "WhenOpened": "2024-09-01T21:19:41.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PlanoSaude.cs",
               "DocumentMoniker": "C:\\faculdade\\cp4\\CKP4\\Models\\PlanoSaude.cs",
               "RelativeDocumentMoniker": "CKP4\\Models\\PlanoSaude.cs",
@@ -110,13 +113,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\faculdade\\cp4\\CKP4\\Models\\Paciente.cs",
               "RelativeDocumentMoniker": "CKP4\\Models\\Paciente.cs",
               "ToolTip": "C:\\faculdade\\cp4\\CKP4\\Models\\Paciente.cs",
               "RelativeToolTip": "CKP4\\Models\\Paciente.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA6wBMAAAASAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T21:15:27.364Z",
               "EditorCaption": ""

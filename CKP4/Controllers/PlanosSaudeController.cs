@@ -43,7 +43,6 @@ namespace CKP4.Controllers
         }
 
         // PUT: api/PlanosSaude/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutPlanoSaude(int id, PlanoSaude planoSaude)
         {
@@ -74,7 +73,6 @@ namespace CKP4.Controllers
         }
 
         // POST: api/PlanosSaude
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
         public async Task<ActionResult<PlanoSaude>> PostPlanoSaude(PlanoSaude planoSaude)
         {
