@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r+oYMbyRlAE=",
+  "dgSpecHash": "9/lihkF5AOQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\evoaccer06\\source\\repos\\CKP4\\CKP4\\CKP4.csproj",
+  "projectFilePath": "C:\\faculdade\\cp4\\CKP4\\CKP4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evoaccer06\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\evoaccer06\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

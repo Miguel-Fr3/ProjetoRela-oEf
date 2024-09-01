@@ -6754,11 +6754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\evoaccer06\\source\\repos\\CKP4\\CKP4\\CKP4.csproj",
+      "projectUniqueName": "C:\\faculdade\\cp4\\CKP4\\CKP4.csproj",
       "projectName": "CKP4",
-      "projectPath": "C:\\Users\\evoaccer06\\source\\repos\\CKP4\\CKP4\\CKP4.csproj",
+      "projectPath": "C:\\faculdade\\cp4\\CKP4\\CKP4.csproj",
       "packagesPath": "C:\\Users\\evoaccer06\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\evoaccer06\\source\\repos\\CKP4\\CKP4\\obj\\",
+      "outputPath": "C:\\faculdade\\cp4\\CKP4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evoaccer06\\AppData\\Roaming\\NuGet\\NuGet.Config",
